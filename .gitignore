@@ -1,0 +1,56 @@
+# -----------------------------
+# Python / Data Science
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# -----------------------------
+# Virtual Environments
+# -----------------------------
+.env
+venv/
+env/
+
+# -----------------------------
+# System / OS files
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# Logs & temp files
+# -----------------------------
+*.log
+*.tmp
+
+# -----------------------------
+# Browser drivers (Selenium)
+# -----------------------------
+chromedriver*
+geckodriver*
+
+# -----------------------------
+# IDE / Editor files
+# -----------------------------
+.vscode/
+.idea/
+
+# -----------------------------
+# Secrets (if any)
+# -----------------------------
+*.env
+*.pem
+*.key
+
+# -----------------------------
+# DO NOT IGNORE THESE (IMPORTANT)
+# -----------------------------
+# data/
+# docs/
+# scripts/
+# .csv
+#.ipynb
