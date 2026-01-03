@@ -57,10 +57,6 @@ The objective of this project is to understand **pricing trends, brand value, mi
 ## 📁 Project Structure
 Used-Car-Analysis/
 │
-├── data/
-│   ├── clean/       # Cleaned city-wise datasets
-│   ├── raw/         # Scraped raw datasets
-│   └── external/    # Final dataset used for dashboard
 │
 ├── scripts/
 │   ├── raw/         # Web scraping scripts
@@ -69,7 +65,6 @@ Used-Car-Analysis/
 │
 ├── docs/
 │   ├── dashboard/   # Power BI / Tableau dashboard
-│   ├── presentation/ # Project presentation
 │   └── report/      # Detailed project report
 │
 ├── README.md
@@ -97,5 +92,5 @@ Used-Car-Analysis/
 
 ## 👤 Author
 **Shreyas Jaronde**  
-Aspiring Data Analyst | Python | SQL | Data Visualization
+Data Analyst | Python | SQL | Data Visualization
 
